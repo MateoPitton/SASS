@@ -1,0 +1,21 @@
+/*hola*/
+header {
+  background-color: aquamarine;
+  display: flex; }
+  header ul {
+    list-style: none; }
+    header ul li {
+      padding: 15px;
+      display: inline-block;
+      color: white;
+      border: solid 2px black; }
+      header ul li a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #444; }
+
+/*achuuu
+salud 
+gracias*/
+main {
+  background-color: blueviolet; }
